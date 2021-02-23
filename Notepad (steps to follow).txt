@@ -1,0 +1,18 @@
+Click the link below to see the working model
+
+https://yaswanth3100.github.io/user-form/
+
+
+Steps to follow(to run in local device)
+
+1.create a react-app
+ (npx create-react-app form)
+
+2.
+navigate to public folder and
+replace index.html with index.html from git-hub repository
+
+3.navigate to src folder
+and replace index.js , App.js , App.css with index.js , App.js , App.css from git-hub repository respectively
+
+4.start the react-app(npm start)
